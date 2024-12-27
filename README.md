@@ -3,7 +3,7 @@ Welcome to the RISC-V Pipeline Architecture repository, implemented in SystemVer
 
 **🌟 Features**
 
-**🏗️ Pipeline Stages**
+**🏗️ Pipeline Stages**/n
       Instruction Fetch (IF): Fetches the instruction from memory based on the program counter.
       Instruction Decode (ID): Decodes the fetched instruction and reads the required registers.
       Execute (EX): Performs arithmetic or logical operations and calculates memory addresses.
