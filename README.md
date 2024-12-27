@@ -1,11 +1,11 @@
-**🚀 RISC-V Pipeline Architecture Implementation
+**🚀 RISC-V Pipeline Architecture Implementation  
 Welcome to the RISC-V Pipeline Architecture repository, implemented in SystemVerilog. This project builds on a basic single-cycle RISC-V processor and introduces a 5-stage pipelined design with Control and Status Register (CSR) support, significantly enhancing performance and functionality.**
 
-**🌟 Features**
+**🌟 Features**  
 
-**🏗️ Pipeline Stages**/n
-      Instruction Fetch (IF): Fetches the instruction from memory based on the program counter.
-      Instruction Decode (ID): Decodes the fetched instruction and reads the required registers.
+**🏗️ Pipeline Stages**  
+      Instruction Fetch (IF): Fetches the instruction from memory based on the program counter.  
+      Instruction Decode (ID): Decodes the fetched instruction and reads the required registers.  
       Execute (EX): Performs arithmetic or logical operations and calculates memory addresses.
       Memory Access (MEM): Accesses data memory for load and store operations.
       Write Back (WB): Writes the result back to the register file.
