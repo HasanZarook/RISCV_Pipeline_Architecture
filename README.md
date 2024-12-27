@@ -51,4 +51,4 @@ For queries or collaborations, reach out to:
 
 A.G.Hasan Zarook
 
-Email: hasanzarook4@gmail.com
+Email: hasanzarook46@gmail.com
